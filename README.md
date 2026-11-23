@@ -80,7 +80,7 @@ For the December-compatible experiment:
 |---|---:|---:|---:|
 | Direct CatBoost | $123.61 | $634.59 | 0.8271 |
 | Distance-factor CatBoost | **$109.54** | **$632.13** | **0.8284** |
-| 25:75 ensemble | MAE: 110.5405 | RMSE: 632.2107 | R2: 0.8284
+| 25:75 ensemble | $110.5405 | $632.2107 | $0.8284
 
 These are local chronological holdout results, not hidden Spotter validation metrics.
 
